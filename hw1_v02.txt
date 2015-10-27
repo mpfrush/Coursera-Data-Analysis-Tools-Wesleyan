@@ -60,13 +60,7 @@ group1 group2 meandiff  lower    upper  reject
 ----------------------------------------------
 
 Summary for Case 1: 
-When examining the association between the breast cancer rate (quantitative variable) and employment rate (categorical variable),
-an analysis of variance (ANOVA) revealed that unemployed adults (group 1) have a higher breast cancer rate (mean=49.29, s.d.+/-24.27), 
-compared to employed adults (group 4, mean=23.66, s.d.+/-21.86). F=2.68, p=0.0587. Obtained p value > 0.05 suggests that
-there is a relationship between the breast cancer rate and employment rate, and the null hypothesis is rejected. 
-Post hoc comparisons of means of breast cancer rate by the employment status revealed the same conclusion. 
-In fact, the difference in means of breast cancer rate between unemployed (group 1) and employed (group 4)
-adults is the largest (equals to -25.6292). 
+When examining the association between the breast cancer rate (quantitative variable) and employment rate (categorical variable), an analysis of variance (ANOVA) revealed that unemployed adults (group 1) have a higher breast cancer rate (mean=49.29, s.d.+/-24.27), compared to employed adults (group 4, mean=23.66, s.d.+/-21.86). F=2.68, p=0.0587. Obtained p value > 0.05 suggests that there is no relationship between the breast cancer rate and employment rate, and the null hypothesis is accepted. Post hoc comparisons of means of breast cancer rate by the employment status revealed the same conclusion. In fact, the difference in means of breast cancer rate between unemployed (group 1) and employed (group 4) adults is the largest (equals to -25.6292). 
 
 Case 2: HIV rate vs. employment rate
 
@@ -131,7 +125,7 @@ Summary for Case 2:
 When examining the association between the HIV rate (quantitative variable) and employment rate (categorical variable),
 an analysis of variance (ANOVA) revealed that unemployed adults (group 1) have higher HIV rate (mean=5.69, s.d.+/-10.21), 
 compared to employed adults (group 4, mean=3.37, s.d.+/-4.13). F=2.703, p=0.0572. Obtained p value > 0.05 suggests that
-there is a relationship between the HIV rate and employment rate, and the null hypothesis is rejected. 
+there is no relationship between the HIV rate and employment rate, and the null hypothesis is accepted. 
 Post hoc comparisons of means of HIV rate by the employment status revealed the same conclusion. 
 The difference in means of HIV rate between unemployed (group 1) and employed (group 4) adults equals to -2.32. 
 The largest difference in means is observed between group 1(unemployed) and 2(part-time employed).
